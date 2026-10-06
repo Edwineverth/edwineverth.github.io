@@ -15,6 +15,8 @@ Portafolio profesional de Edwin Belduma, Senior Software Engineer en Ecuador. Un
 | [Tareas y autenticación](https://github.com/Edwineverth/task-nest) | Usuarios, JWT, validación y pruebas | Express, TypeScript, Firebase, Jest |
 | [Text App](https://github.com/Edwineverth/text-web-app) | Interfaz React conectada a una API REST | React, JavaScript |
 
+La sección de experiencia reúne 13 casos profesionales, incluyendo seguros, pagos, activos digitales, onboarding bancario, automatización industrial, soporte financiero y modernización de sistemas heredados. Cada caso presenta contexto, aporte, mejoras y tecnologías.
+
 Los casos profesionales describen mi participación en proyectos laborales. El código de esos sistemas pertenece a sus respectivos propietarios. Los proyectos públicos cuentan con enlaces a sus repositorios.
 
 ## El sitio
